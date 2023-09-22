@@ -26,6 +26,20 @@
       "descricao": "de pepel, tamanho japonês",
       "validade": "2024-12-31",
       "valor": 15.69
+    },
+    {
+      "nome": "pino",
+      "descricao": "de plastico",
+      "validade": "2024-12-31",
+      "valor": "25",
+      "id": 2
+    },
+    {
+      "nome": "lapiz",
+      "descricao": "de cor",
+      "validade": "2025-05-14",
+      "valor": "79.90",
+      "id": 3
     }
   ]
 }
