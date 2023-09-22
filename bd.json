@@ -1,25 +1,31 @@
 {
-    "usuarios": [
-        {
-            "id": 1,
-            "nome": "Serjão Berranteiro",
-            "email": "serjao@berranteiro.com",
-            "senha": "123456"
-        },
-        {
-            "id": 2,
-            "nome": "Pedra Pedroca",
-            "email": "pedra@pedroca.com",
-            "senha": "654321"
-        }
-    ],
-    "produtos": [
-        {
-            "id": 1,
-            "nome": "Clipes",
-            "descricao": "de pepel, tamanho japonês",
-            "validade": "2024-12-31",
-            "valor": 15.69
-        }
-    ]
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "Serjão Berranteiro",
+      "email": "serjao@berranteiro.com",
+      "senha": "123456"
+    },
+    {
+      "id": 2,
+      "nome": "Pedra Pedroca",
+      "email": "pedra@pedroca.com",
+      "senha": "654321"
+    },
+    {
+      "nome": "alex",
+      "email": "alex@hotmail.com",
+      "senha": "2",
+      "id": 3
+    }
+  ],
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Clipes",
+      "descricao": "de pepel, tamanho japonês",
+      "validade": "2024-12-31",
+      "valor": 15.69
+    }
+  ]
 }
